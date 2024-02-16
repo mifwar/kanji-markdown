@@ -1,5 +1,5 @@
- ### The Script
-<span style="font-size: 200px;">日</span>
+### The Script
+# 日
 
 ### Writing Style
 ![Kanji Hi writing animation](https://i.imgur.com/a1htGoW.gif)
@@ -20,33 +20,7 @@
 
 ### れいぶん (Reibun)
 
-<div style="font-size: 48px;">
-  <!-- Ruby annotation for "Saturday" -->
-  <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>は
-  
-  <!-- Ruby annotation for "I" -->
-  <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>が
-  
-  <!-- Ruby annotation for "Japanese" -->
-  <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の
-  
-  <!-- Ruby annotation for "movie" -->
-  <ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を
-  
-  <!-- Ruby annotation for "watch" -->
-  <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ます。
-  
-  <!-- Ruby annotation for "movie" -->
-  <ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>の
-  
-  <!-- Ruby annotation for "name" -->
-  <ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>は
-  
-  <!-- Ruby annotation for "Monster" -->
-  「<ruby>怪物<rp>(</rp><rt>かいぶつ</rt><rp>)</rp></ruby>」です。
-</div>
-
-
+<ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>が<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ます。<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>の<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>は「<ruby>怪物<rp>(</rp><rt>かいぶつ</rt><rp>)</rp></ruby>」です。
 
 ### トリビア (Trivia)
 日 (ひ, hi) means "sun", while 本 (ほん, hon) means "book" or "origin".
