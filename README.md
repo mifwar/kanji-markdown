@@ -6,3 +6,4 @@ List of learned Kanji so far:
 - [生](生.md)
 - [見](見.md)
 - [日](日.md)
+- [話](話.md)
